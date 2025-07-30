@@ -25,6 +25,3 @@ shared_preferences: Used for persistent local storage, enabling the game to save
 share_plus: Provides the functionality to share game scores and results with others.
 
 flutter_timer_countdown: Powers the time-restricted game mode, managing the countdown timer displayed to the user.
-
-cupertino_icons: Offers a set of iOS-style icons used throughout the application's UI.
-
